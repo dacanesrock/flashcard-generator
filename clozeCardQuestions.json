@@ -1,0 +1,17 @@
+[
+  {
+    "cloze": "donald trump",
+    "fulltext": "donald trump is the president of the usa",
+    "partial": "[...] is the president of the usa"
+  },
+  {
+    "cloze": "wiz khalifa",
+    "fulltext": "wiz khalifa is the greatest rapper alive",
+    "partial": "[...] is the greatest rapper alive"
+  },
+  {
+    "cloze": "Wiz Khalifa",
+    "fulltext": "Wiz Khalifa made the song Black & Yellow",
+    "partial": "[...] made the song Black & Yellow"
+  }
+]
